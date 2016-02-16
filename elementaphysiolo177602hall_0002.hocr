@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./elementaphysiolo177602hall_0002.png"; bbox 0 0 2615 3586; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 967 1225 1515 1302">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 967 1225 1515 1302">
+     <span class='ocr_line' id='line_1_1' title="bbox 967 1225 1515 1302; baseline 0.018 -28"><span class='ocrx_word' id='word_1_1' title='bbox 967 1225 1207 1278; x_wconf 83' lang='lat' dir='ltr'>Brandeis</span> <span class='ocrx_word' id='word_1_2' title='bbox 1230 1230 1515 1302; x_wconf 80' lang='lat' dir='ltr'><strong>University</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 884 1437 1565 1501">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 884 1437 1565 1501">
+     <span class='ocr_line' id='line_1_2' title="bbox 884 1437 1565 1501; baseline 0.019 -16"><span class='ocrx_word' id='word_1_3' title='bbox 884 1437 1158 1501; x_wconf 79' lang='lat' dir='ltr'>&#39;Waltham‚</span> <span class='ocrx_word' id='word_1_4' title='bbox 1182 1443 1565 1498; x_wconf 83' lang='lat' dir='ltr'>Massachusetts</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 988 2078 1412 2335">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 988 2078 1412 2335">
+     <span class='ocr_line' id='line_1_3' title="bbox 1087 2078 1315 2126; baseline 0.009 -2"><span class='ocrx_word' id='word_1_5' title='bbox 1087 2078 1214 2125; x_wconf 62' lang='lat' dir='ltr'><strong>Gffft</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1253 2081 1315 2126; x_wconf 75' lang='lat' dir='ltr'><strong>of</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1055 2145 1371 2193; baseline 0.013 -4"><span class='ocrx_word' id='word_1_7' title='bbox 1055 2145 1138 2191; x_wconf 71' lang='lat' dir='ltr'><strong>Dr.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1188 2146 1213 2190; x_wconf 69' lang='grc' dir='ltr'>ἃ</span> <span class='ocrx_word' id='word_1_9' title='bbox 1252 2147 1371 2193; x_wconf 67' lang='lat' dir='ltr'><strong>Mrs.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 988 2210 1411 2259; baseline 0.009 -4"><span class='ocrx_word' id='word_1_10' title='bbox 988 2210 1212 2257; x_wconf 67' lang='lat' dir='ltr'><strong>Hermann</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1254 2212 1411 2259; x_wconf 70' lang='lat' dir='ltr'>Lisco</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 988 2278 1412 2335; baseline 0.009 -13"><span class='ocrx_word' id='word_1_12' title='bbox 988 2278 1305 2335; x_wconf 68' lang='lat' dir='ltr'>Brook]ine‚</span> <span class='ocrx_word' id='word_1_13' title='bbox 1351 2280 1412 2326; x_wconf 79' lang='grc' dir='ltr'><strong>ΜΑ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 719 1052 1744 2543">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 719 1052 1744 2543">
+     <span class='ocr_line' id='line_1_7' title="bbox 719 1052 1744 2543; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 719 1052 1744 2543; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1778 974 1816 2727">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1778 974 1816 2727">
+     <span class='ocr_line' id='line_1_8' title="bbox 1778 974 1816 2727; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 1778 974 1816 2727; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
